@@ -1,0 +1,1 @@
+mongodb+srv://AnkitPatil:<db_password>@cluster0.uo7hpm6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
